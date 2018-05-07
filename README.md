@@ -1,2 +1,2 @@
 # helloWorld
-just for test
+just for test,console.log("hello world!");
